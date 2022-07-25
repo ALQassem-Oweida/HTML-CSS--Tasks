@@ -1,0 +1,40 @@
+table {
+    border-spacing: 1px;
+    text-align: center;
+    width: 800px;
+
+}
+
+td {
+    border: .1px solid rgb(255, 255, 255);
+}
+
+
+.C1 {
+    text-align: left;
+    background-color: #91C4D5;
+}
+
+.C2 {
+    text-align: center;
+    background-color: #91C4D5;
+}
+.C3 {
+    text-align: left;
+    background-color: #7ea03e;
+}
+.green {
+    background-color: #B1CC7F;
+
+}
+
+.Dblue {
+    background-color: #66A8BE;
+}
+
+.Fblue {
+    background-color: #D6EAF1;
+}
+.Fgreen{
+    background-color: #D8E1C6;
+}
