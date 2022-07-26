@@ -1,0 +1,25 @@
+.Main{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: 1fr 65% 25%;
+    width: 100%;
+    height: 550px;
+    gap: 5px;
+
+}
+.black{
+    background-color: black;
+    grid-column: 1/span 4;
+}
+.yellow{
+    background-color: rgb(255, 217, 0);
+    grid-column: 1/span 3;
+}
+.green{
+    background-color: green;
+    
+}
+.blue{
+    background-color: blue;
+    grid-column: 1/span 4;
+}
