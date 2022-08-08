@@ -1,2 +1,2 @@
 # HTML-Tasks
-Some HTML Tasks for Orange Coding Academy
+Daily HTML and CSS Tasks we did at Orange Coding Academy
